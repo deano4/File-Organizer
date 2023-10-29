@@ -1,5 +1,7 @@
 # File Organizer
 #### Description:
+To run File Organizer, execute the python file "app.py"
+
 File Organizer (my project) was designed to help organize multiples files into folders for better organization.
 This was a problem when I looked at my own Downloads folder which was cluttered with a bunch of files.
 
